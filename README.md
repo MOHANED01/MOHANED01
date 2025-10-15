@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohaned Hossam
 
-🎯 **Embedded Software Engineer | Electronics & Communication Engineer (Cairo University)**  
+🎯 **Embedded Software Engineer | Electronics & Electrical Communication Engineering (Cairo University)**  
 💡 Passionate about designing, developing, and optimizing embedded systems that bridge hardware and intelligent software.  
 📍 Cairo, Egypt  
 📧 [mohanedtohamy444@gmail.com](mailto:mohanedtohamy444@gmail.com)  
