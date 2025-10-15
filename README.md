@@ -29,12 +29,12 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 | Category | Skills |
 |----------|--------|
 | **Languages** | C, C++, Embedded C |
-| **Microcontrollers** | STM32, ATmega, Raspberry Pi, ESP8266, CC1350, nRF Connect SDK |
-| **OS & Frameworks** | FreeRTOS, AUTOSAR (Classic & Adaptive), Yocto, Qt5 |
+| **Microcontrollers** | STM32, ATmega, Raspberry Pi, ESP8266, CC1350, nRF Connect SDK, SAMG55 |
+| **OS & Frameworks** | FreeRTOS, AUTOSAR (Classic & Adaptive) |
 | **Protocols** | SPI, UART, I2C, CAN, ESP-NOW, LPWAN |
 | **Tools & IDEs** | STM32CubeIDE, IAR, Eclipse, VS Code, Proteus, Arduino IDE |
 | **OS** | Linux, Windows |
-| **Linux Skills** | Linux Command Line, Bash Scripting, Networking, File System Management |
+| **Linux Skills** | Linux Command Line, Bash Scripting, File System Management |
 
 ---
 
