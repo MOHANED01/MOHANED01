@@ -41,7 +41,7 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 ## 🌟 Highlight Projects
 
 <details>
-<summary>🚗 **ADAS with V2V Wireless Communication</summary>
+<summary> **ADAS with V2V Wireless Communication</summary>
 
 **Description:**  
 Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, **STM32**, and **ESP8266** for vehicle-to-vehicle communication.
@@ -56,11 +56,11 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 - Built CAN communication between STM32 and Raspberry Pi via MCP2515/MCP2551.  
 - Established and benchmarked wireless protocols (ESP-NOW vs LPWAN).
 
-🎥 [Project Demo Video](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
+ [Project Demo Video](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
 </details>
 
 <details>
-<summary>🔄 **Over-The-Air (OTA) Firmware Update</summary>
+<summary> **Over-The-Air (OTA) Firmware Update</summary>
 
 - Built a system to flash HEX firmware from a transmitter MCU to a receiver MCU over **USART**.  
 - Developed modules for RCC, GPIO, NVIC, Systick, FMI, USART, HexParser, Bootloader.  
@@ -68,7 +68,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 </details>
 
 <details>
-<summary>⏱️ **Stopwatch System</summary>
+<summary> **Stopwatch System</summary>
 
 - Implemented real-time stopwatch control using **Systick** and **EXTI** interrupts.  
 - Layered architecture: HAL / MCAL / APP.  
@@ -76,14 +76,14 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 </details>
 
 <details>
-<summary>🚦 **On-Demand Traffic Light</summary>
+<summary> **On-Demand Traffic Light</summary>
 
 - Designed traffic control for cars and pedestrians using timers and interrupts.  
 - Target MCU: **ATmega32**
 </details>
 
 <details>
-<summary>💳 **Payment Application (ATM Simulator)</summary>
+<summary> **Payment Application (ATM Simulator)</summary>
 
 - Built a simulation of ATM–Bank–User interaction.  
 - Structured with **Layered Architecture** (Card, Terminal, Server modules).  
@@ -91,7 +91,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 </details>
 
 <details>
-<summary>🔐 **Door Locker Security System</summary>
+<summary> **Door Locker Security System</summary>
 
 - Dual ECU system with password-based unlocking via **UART/I2C** communication.  
 - Integrated LCD, Keypad, DC Motor, EEPROM, and Buzzer.  
@@ -99,7 +99,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 </details>
 
 <details>
-<summary>🌡️ **Fan Speed Controller with Temperature Sensor</summary>
+<summary> **Fan Speed Controller with Temperature Sensor</summary>
 
 - Automatic fan speed control using **LM35 sensor** and **PWM**.  
 - Target MCU: **ATmega32**
