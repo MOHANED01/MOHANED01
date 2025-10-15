@@ -137,7 +137,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ## 🏅 Certifications
 
-- 🎓 **nRF Connect SDK Fundamentals** – Nordic Semiconductor *(Apr 2024)*  
+- 🎓 **nRF Connect SDK Fundamentals** [Certificate](https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)– Nordic Semiconductor *(Apr 2024)*  
 - 🧩 **Mastering OOP in C++** *(Aug 2024)*  
 - ⚙️ **ITI Advanced Embedded Systems Diploma** *(2023)*  
 - 🚀 **Siemens EDA Embedded Systems Certificate (Top 5, 92%)** *(2023)*  
