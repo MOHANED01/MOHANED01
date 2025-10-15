@@ -141,15 +141,14 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ## 🏅 Certifications
 
-- 🎓 **El Sewedy Electrometer Group (EMG)** [Certificate](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
-- 🧩 **Mastering OOP in C++** *(Aug 2024)*  
-- ⚙️ **ITI Advanced Embedded Systems Diploma** *(2023)*  
-- 🚀 **Siemens EDA Embedded Systems Certificate (Top 5, 92%)** *(2023)*  
-- 💡 **Embedded Systems Professional Nanodegree (EGYFWD)** *(2022)*  
-- 🧠 **Full Embedded Systems Diploma** *(2022)*
-- **Siemens Certificate**(https://drive.google.com/uc?id=1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL)  
-- [ITI Certificate](https://drive.google.com/uc?id=1JMXrtY8lff8s466-6__AVyDPVW0eZmuh)  
-- [nRF Connect SDK Certificate](https://drive.google.com/uc?id=1aDkD0-L_jk82kkm7kpAc_nAVLmqXmfPh)  
+-  **El Sewedy Electrometer Group (EMG)** *(Oct 2024)* [Certificate](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
+- **Siemens EDA** *(Oct 2023)* [Certificate](https://drive.google.com/file/d/1DpuXpalZDpwxVRClQVq2Az1i7SmAJJ_5/view?usp=drive_link) [Grade](https://drive.google.com/file/d/1WiATzdO1LUkwLAYUkF-Zd17xxr0GP4tP/view?usp=drive_link)
+- **ITI Advanced Embedded Systems** *(Sept 2023)* [Certificate] (https://drive.google.com/file/d/12OROGPzJ4xqzf58545kt0wnJ8fEHhYnu/view?usp=drive_link)
+- **Systel Telecommunication** *(Jul 2023)* [Certificate] (https://drive.google.com/file/d/1JMXrtY8lff8s466-6__AVyDPVW0eZmuh/view?usp=drive_link)
+- **Mastering Object-Oriented Programming (OOP) using C++** *(Aug 2024)* [Certificate] (https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)
+- **nRF Connect SDK Fundamentals** *(Apr 2024)* [Certificate](https://drive.google.com/file/d/1q6OcfVu7cCupznZzmdLeankhOyPRgsNr/view?usp=drive_link)
+- **Embedded Systems Professional Nanodegree (EGYFWD)** *(Nov 2022)* [Certificate](https://drive.google.com/file/d/1aDkD0-L_jk82kkm7kpAc_nAVLmqXmfPh/view?usp=sharing)
+- **Full Embedded Systems Diploma** *(Oct 2022)* [Certificate](https://drive.google.com/file/d/1IAUpcvASj8YZCQAH4mK7Z9j3ZU7eJSWE/view?usp=drive_link)
 
 
 ---
