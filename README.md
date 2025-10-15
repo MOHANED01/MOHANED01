@@ -48,7 +48,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 **Features:**  
 - Drowsiness detection, sign recognition, adaptive cruise control, and lane detection.  
-- Two-way V2V communication using **ESP-NOW** and **LPWAN** protocols.  
+- Two-way V2V communication using **ESP-NOW** with **ESP8266**.  
 - Custom **Yocto-based Linux image** and **Qt5 GUI** for infotainment.  
 
 **My Role:**  
