@@ -8,36 +8,43 @@
 
 ---
 
-### 🧭 About Me
+## 🚀 About Me
 
 I'm an **Embedded Software Engineer** with hands-on experience in **firmware development**, **RTOS**, **communication protocols**, and **automotive embedded systems**.  
-I specialize in **STM32**, **FreeRTOS**, and **AUTOSAR** development — building real-time systems that connect embedded intelligence with physical control.
+I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux programming**, building real-time systems that connect embedded intelligence with physical control.
+ Graduated from **Cairo University** with a *Very Good* overall grade and an *Excellent* project grade.  
 
-🎓 Graduated from **Cairo University** with a *Very Good* overall grade and an *Excellent* project grade.  
-🪖 Currently serving in the **Egyptian Armed Forces** until **Dec 2025**, while actively building embedded projects and open-source tools.
 
 ---
 
-### ⚙️ Technical Skills
+## 📌 Technical Skills
+
+![C Badge](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)  
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![FreeRTOS Badge](https://img.shields.io/badge/FreeRTOS-%23000000?style=flat&logo=freertos&logoColor=white)  
+![STM32 Badge](https://img.shields.io/badge/STM32-%23000000?style=flat&logo=stm32&logoColor=white)  
+![Linux Badge](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&logoColor=white)  
+![AUTOSAR Badge](https://img.shields.io/badge/AUTOSAR-%23000000?style=flat&logo=autonomous&logoColor=white)  
 
 | Category | Skills |
-|-----------|--------|
+|----------|--------|
 | **Languages** | C, C++, Embedded C |
-| **MCUs / Platforms** | STM32, ATmega, Raspberry Pi, ESP8266, CC1350, nRF Connect SDK |
-| **Frameworks / OS** | FreeRTOS, AUTOSAR (Classic & Adaptive), Yocto, Qt5 |
-| **Communication Protocols** | SPI, UART, I2C, CAN, ESP-NOW, LPWAN |
+| **Microcontrollers** | STM32, ATmega, Raspberry Pi, ESP8266, CC1350, nRF Connect SDK |
+| **OS & Frameworks** | FreeRTOS, AUTOSAR (Classic & Adaptive), Yocto, Qt5 |
+| **Protocols** | SPI, UART, I2C, CAN, ESP-NOW, LPWAN |
 | **Tools & IDEs** | STM32CubeIDE, IAR, Eclipse, VS Code, Proteus, Arduino IDE |
 | **OS** | Linux, Windows |
+| **Linux Skills** | Linux Command Line, Bash Scripting, Networking, File System Management |
 
 ---
 
-### 🧩 Highlight Projects
+## 🌟 Highlight Projects
 
 <details>
-<summary>🚗 <b>ADAS with V2V Wireless Communication</b></summary>
+<summary>🚗 **ADAS with V2V Wireless Communication</summary>
 
 **Description:**  
-Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM32, and ESP8266 for vehicle-to-vehicle communication.  
+Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, **STM32**, and **ESP8266** for vehicle-to-vehicle communication.
 
 **Features:**  
 - Drowsiness detection, sign recognition, adaptive cruise control, and lane detection.  
@@ -53,15 +60,15 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 </details>
 
 <details>
-<summary>🔄 <b>Over-The-Air (OTA) Firmware Update</b></summary>
+<summary>🔄 **Over-The-Air (OTA) Firmware Update</summary>
 
-- Built a system to flash HEX firmware from a transmitter MCU to a receiver MCU over USART.  
+- Built a system to flash HEX firmware from a transmitter MCU to a receiver MCU over **USART**.  
 - Developed modules for RCC, GPIO, NVIC, Systick, FMI, USART, HexParser, Bootloader.  
 - Target MCU: **STM32F401CC**  
 </details>
 
 <details>
-<summary>⏱️ <b>Stopwatch System</b></summary>
+<summary>⏱️ **Stopwatch System</summary>
 
 - Implemented real-time stopwatch control using **Systick** and **EXTI** interrupts.  
 - Layered architecture: HAL / MCAL / APP.  
@@ -69,14 +76,14 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 </details>
 
 <details>
-<summary>🚦 <b>On-Demand Traffic Light</b></summary>
+<summary>🚦 **On-Demand Traffic Light</summary>
 
 - Designed traffic control for cars and pedestrians using timers and interrupts.  
 - Target MCU: **ATmega32**
 </details>
 
 <details>
-<summary>💳 <b>Payment Application (ATM Simulator)</b></summary>
+<summary>💳 **Payment Application (ATM Simulator)</summary>
 
 - Built a simulation of ATM–Bank–User interaction.  
 - Structured with **Layered Architecture** (Card, Terminal, Server modules).  
@@ -84,15 +91,15 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 </details>
 
 <details>
-<summary>🔐 <b>Door Locker Security System</b></summary>
+<summary>🔐 **Door Locker Security System</summary>
 
-- Dual ECU system with password-based unlocking via UART/I2C communication.  
+- Dual ECU system with password-based unlocking via **UART/I2C** communication.  
 - Integrated LCD, Keypad, DC Motor, EEPROM, and Buzzer.  
 - Target MCU: **ATmega32**
 </details>
 
 <details>
-<summary>🌡️ <b>Fan Speed Controller with Temperature Sensor</b></summary>
+<summary>🌡️ **Fan Speed Controller with Temperature Sensor</summary>
 
 - Automatic fan speed control using **LM35 sensor** and **PWM**.  
 - Target MCU: **ATmega32**
@@ -100,7 +107,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **Cairo University** — *B.Sc. in Electronics and Electrical Communication Engineering*  
 📅 Sep 2019 – Jul 2024  
@@ -110,7 +117,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 
 ---
 
-### 💼 Internships
+## 💼 Internships
 
 **El Sewedy Electrometer Group (EMG)** — *Embedded Firmware Engineer Trainee*  
 📅 Jul 2024 – Oct 2024  
@@ -122,17 +129,13 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 - Ranked **Top 5** in certification exam (92%).  
 - Topics: RTOS, AUTOSAR Layers, Safety (ISO26262), Cybersecurity.
 
-**ITI (Information Technology Institute)** — *Advanced Embedded Systems*  
-📅 Aug 2023 – Sep 2023  
-- ARM Cortex-M architecture, microcontroller interfacing, bootloader design, IoT basics.
-
 **Systel Telecommunication**  
 📅 Jun 2023 – Jul 2023  
 - Trained on Tetra systems, network layers, and camera systems.
 
 ---
 
-### 🏅 Certifications
+## 🏅 Certifications
 
 - 🎓 **nRF Connect SDK Fundamentals** – Nordic Semiconductor *(Apr 2024)*  
 - 🧩 **Mastering OOP in C++** *(Aug 2024)*  
@@ -143,7 +146,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced **AUTOSAR MCAL** Modules  
 - **Embedded Linux Development** (Yocto)  
@@ -151,7 +154,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 
 ---
 
-### 🎯 GitHub Goals
+## 🎯 GitHub Goals
 
 - 🔧 Build reusable **embedded driver modules** (Bootloaders, HAL, MCAL).  
 - 🚗 Contribute to **automotive FreeRTOS** projects.  
@@ -159,7 +162,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using Raspberry Pi, STM3
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 [Email](mailto:mohanedtohamy444@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mohaned-hossam-8593041b3)  
