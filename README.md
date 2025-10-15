@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohaned Hossam
+#  Hi, I'm Mohaned Hossam
 
 - **Embedded Software Engineer | Electronics & Electrical Communication Engineering (Cairo University)**  
 - Passionate about designing, developing, and optimizing embedded systems that bridge hardware and intelligent software.  
