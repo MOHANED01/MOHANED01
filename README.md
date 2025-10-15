@@ -143,9 +143,9 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 - 🚀 **Siemens EDA Embedded Systems Certificate (Top 5, 92%)** *(2023)*  
 - 💡 **Embedded Systems Professional Nanodegree (EGYFWD)** *(2022)*  
 - 🧠 **Full Embedded Systems Diploma** *(2022)*
-- **[Siemens Certificate](https://drive.google.com/uc?id=1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL)  
-- **[ITI Certificate](https://drive.google.com/uc?id=1JMXrtY8lff8s466-6__AVyDPVW0eZmuh)  
-- **[nRF Connect SDK Certificate](https://drive.google.com/uc?id=1aDkD0-L_jk82kkm7kpAc_nAVLmqXmfPh)  
+- [Siemens Certificate](https://drive.google.com/uc?id=1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL)  
+- [ITI Certificate](https://drive.google.com/uc?id=1JMXrtY8lff8s466-6__AVyDPVW0eZmuh)  
+- [nRF Connect SDK Certificate](https://drive.google.com/uc?id=1aDkD0-L_jk82kkm7kpAc_nAVLmqXmfPh)  
 
 
 ---
