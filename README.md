@@ -128,6 +128,10 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 📅 Jul 2023 – Oct 2023  
 - Ranked **Top 5** in certification exam (92%).  
 - Topics: RTOS, AUTOSAR Layers, Safety (ISO26262), Cybersecurity.
+- 
+**ITI Advanced Embedded Systems**  
+📅 Aug 2023 - Sept 2023 
+- Developed firmware for ARM Cortex M4, Introduction to IOT, WIFI module, Flashing and Bootloader.
 
 **Systel Telecommunication**  
 📅 Jun 2023 – Jul 2023  
@@ -137,7 +141,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ## 🏅 Certifications
 
-- 🎓 **nRF Connect SDK Fundamentals** [Certificate](https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)– Nordic Semiconductor *(Apr 2024)*  
+- 🎓 **El Sewedy Electrometer Group (EMG)** [Certificate](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
 - 🧩 **Mastering OOP in C++** *(Aug 2024)*  
 - ⚙️ **ITI Advanced Embedded Systems Diploma** *(2023)*  
 - 🚀 **Siemens EDA Embedded Systems Certificate (Top 5, 92%)** *(2023)*  
