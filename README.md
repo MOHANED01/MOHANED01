@@ -107,7 +107,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ---
 
-## 🎓 Education
+## 📌 Education
 
 **Cairo University** — *B.Sc. in Electronics and Electrical Communication Engineering*  
 📅 Sep 2019 – Jul 2024  
