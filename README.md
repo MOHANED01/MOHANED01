@@ -148,19 +148,10 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ## 📚 Currently Learning
 
-- Advanced **AUTOSAR MCAL** Modules  
-- **Embedded Linux Development** (Yocto)  
-- **CAN FD** and advanced communication stacks  
+- **System Programming under Linux OS** 
 
 ---
 
-## 🎯 GitHub Goals
-
-- 🔧 Build reusable **embedded driver modules** (Bootloaders, HAL, MCAL).  
-- 🚗 Contribute to **automotive FreeRTOS** projects.  
-- 📘 Share educational **tutorials** for embedded beginners.  
-
----
 
 ## 📫 Connect With Me
 
