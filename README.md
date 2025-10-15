@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 📌 About Me
 
 I'm an **Embedded Software Engineer** with hands-on experience in **firmware development**, **RTOS**, **communication protocols**, and **automotive embedded systems**.  
 I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux programming**, building real-time systems that connect embedded intelligence with physical control.
@@ -38,7 +38,7 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 
 ---
 
-## 🌟 Highlight Projects
+## 📌 Highlight Projects
 
 <details>
 <summary> ADAS with V2V Wireless Communication</summary>
@@ -117,7 +117,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ---
 
-## 💼 Internships
+## 📌 Internships
 
 **El Sewedy Electrometer Group (EMG)** — *Embedded Firmware Engineer Trainee*  
 📅 Jul 2024 – Oct 2024  
@@ -139,7 +139,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ---
 
-## 🏅 Certifications
+## 📌 Certifications
 
 -  **El Sewedy Electrometer Group (EMG)** *(Oct 2024)* [Certificate](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
 -  **Mastering Object-Oriented Programming (OOP) using C++** *(Aug 2024)* [Certificate](https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)
@@ -154,14 +154,14 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ---
 
-## 📚 Currently Learning
+## 📌 Currently Learning
 
 - **System Programming under Linux OS** 
 
 ---
 
 
-## 📫 Connect With Me
+## 📌 Connect With Me
 
 📧 [Email](mailto:mohanedtohamy444@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mohaned-hossam-8593041b3)  
