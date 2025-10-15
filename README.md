@@ -41,7 +41,7 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 ## 🌟 Highlight Projects
 
 <details>
-<summary> **ADAS with V2V Wireless Communication</summary>
+<summary> **ADAS with V2V Wireless Communication**</summary>
 
 **Description:**  
 Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, **STM32**, and **ESP8266** for vehicle-to-vehicle communication.
