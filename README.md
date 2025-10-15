@@ -142,11 +142,12 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 ## 🏅 Certifications
 
 -  **El Sewedy Electrometer Group (EMG)** *(Oct 2024)* [Certificate](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
+-  **Mastering Object-Oriented Programming (OOP) using C++** *(Aug 2024)* [Certificate](https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)
+-  **nRF Connect SDK Fundamentals** *(Apr 2024)* [Certificate]
 - **Siemens EDA** *(Oct 2023)* [Certificate](https://drive.google.com/file/d/1DpuXpalZDpwxVRClQVq2Az1i7SmAJJ_5/view?usp=drive_link) [Grade](https://drive.google.com/file/d/1WiATzdO1LUkwLAYUkF-Zd17xxr0GP4tP/view?usp=drive_link)
-- **ITI Advanced Embedded Systems** *(Sept 2023)* [Certificate] (https://drive.google.com/file/d/12OROGPzJ4xqzf58545kt0wnJ8fEHhYnu/view?usp=drive_link)
-- **Systel Telecommunication** *(Jul 2023)* [Certificate] (https://drive.google.com/file/d/1JMXrtY8lff8s466-6__AVyDPVW0eZmuh/view?usp=drive_link)
-- **Mastering Object-Oriented Programming (OOP) using C++** *(Aug 2024)* [Certificate] (https://drive.google.com/file/d/1a6J_OFq_NN5imrOc-BO8VdJJKm-PhjlL/view?usp=sharing)
-- **nRF Connect SDK Fundamentals** *(Apr 2024)* [Certificate](https://drive.google.com/file/d/1q6OcfVu7cCupznZzmdLeankhOyPRgsNr/view?usp=drive_link)
+- **ITI Advanced Embedded Systems** *(Sept 2023)* [Certificate](https://drive.google.com/file/d/12OROGPzJ4xqzf58545kt0wnJ8fEHhYnu/view?usp=drive_link)
+- **Systel Telecommunication** *(Jul 2023)* [Certificate](https://drive.google.com/file/d/1JMXrtY8lff8s466-6__AVyDPVW0eZmuh/view?usp=drive_link)
+(https://drive.google.com/file/d/1q6OcfVu7cCupznZzmdLeankhOyPRgsNr/view?usp=drive_link)
 - **Embedded Systems Professional Nanodegree (EGYFWD)** *(Nov 2022)* [Certificate](https://drive.google.com/file/d/1aDkD0-L_jk82kkm7kpAc_nAVLmqXmfPh/view?usp=sharing)
 - **Full Embedded Systems Diploma** *(Oct 2022)* [Certificate](https://drive.google.com/file/d/1IAUpcvASj8YZCQAH4mK7Z9j3ZU7eJSWE/view?usp=drive_link)
 
