@@ -1,7 +1,7 @@
 #  Hi, I'm Mohaned Hossam
 
 - **Embedded Software Engineer | Electronics & Electrical Communication Engineering (Cairo University)**  
-- Passionate about designing, developing, and optimizing embedded systems that bridge hardware and intelligent software.  
+- Passionate about designing, developing, and optimizing embedded systems that bridge hardware and software.  
 📍 Cairo, Egypt  
 📧 [mohanedtohamy444@gmail.com](mailto:mohanedtohamy444@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohaned-hossam-8593041b3) | [GitHub](https://github.com/MOHANED01)
@@ -12,7 +12,7 @@
 
 I'm an **Embedded Software Engineer** with hands-on experience in **firmware development**, **RTOS**, **communication protocols**, and **automotive embedded systems**.  
 I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux programming**, building real-time systems that connect embedded intelligence with physical control.
- Graduated from **Cairo University** with a *Very Good* overall grade and an *Excellent* project grade.  
+ Graduated from **Cairo University** with a **Very Good** overall grade and an **Excellent** graduation project grade.  
 
 
 ---
