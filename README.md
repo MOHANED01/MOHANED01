@@ -156,7 +156,8 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ## 📌 Currently Learning
 
-- **System Programming under Linux OS** 
+- **System Programming under Linux OS**
+- **ISO 26262 Software Impact**
 
 ---
 
