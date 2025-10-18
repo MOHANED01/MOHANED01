@@ -64,7 +64,34 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 - Built a system to flash HEX firmware from a transmitter MCU to a receiver MCU over **USART**.  
 - Developed modules for RCC, GPIO, NVIC, Systick, FMI, USART, HexParser, Bootloader.  
-- Target MCU: **STM32F401CC**  
+- Target MCU: **STM32F401CC**
+- [Repo](https://github.com/MOHANED01/OTA-Firmware-Updates)
+</details>
+
+<details>
+<summary> Door Locker Security System</summary>
+
+- Dual ECU system with password-based unlocking via **UART/I2C** communication.  
+- Integrated LCD, Keypad, DC Motor, EEPROM, and Buzzer.  
+- Target MCU: **ATmega32**
+- [Repo](https://github.com/MOHANED01/Door-Locker-System)
+</details>
+
+<details>
+<summary> Payment Application (ATM Simulator)</summary>
+
+- Built a simulation of ATM–Bank–User interaction.  
+- Structured with **Layered Architecture** (Card, Terminal, Server modules).  
+- Language: **C**
+- [Repo](https://github.com/MOHANED01/Payment-Application)
+</details>
+
+<details>
+<summary> On-Demand Traffic Light</summary>
+
+- Designed traffic control for cars and pedestrians using timers and interrupts.  
+- Target MCU: **ATmega32**
+- [Repo](https://github.com/MOHANED01/On-Demand-Traffic-Light)
 </details>
 
 <details>
@@ -75,28 +102,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 - Target MCU: **STM32F401CC**
 </details>
 
-<details>
-<summary> On-Demand Traffic Light</summary>
 
-- Designed traffic control for cars and pedestrians using timers and interrupts.  
-- Target MCU: **ATmega32**
-</details>
-
-<details>
-<summary> Payment Application (ATM Simulator)</summary>
-
-- Built a simulation of ATM–Bank–User interaction.  
-- Structured with **Layered Architecture** (Card, Terminal, Server modules).  
-- Language: **C**
-</details>
-
-<details>
-<summary> Door Locker Security System</summary>
-
-- Dual ECU system with password-based unlocking via **UART/I2C** communication.  
-- Integrated LCD, Keypad, DC Motor, EEPROM, and Buzzer.  
-- Target MCU: **ATmega32**
-</details>
 
 <details>
 <summary> Fan Speed Controller with Temperature Sensor</summary>
