@@ -170,4 +170,4 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 
 ---
 
-⭐ *"Turning hardware into intelligent systems through clean and efficient firmware design."*
+
