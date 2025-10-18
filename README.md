@@ -123,6 +123,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 📅 Jul 2024 – Oct 2024  
 - Developed firmware for **SAMG55** to establish Ethernet connection via **WIZnet W6100** (SPI).  
 - Trained on Agile methodology and embedded project management.
+- [Summary Documentation](https://drive.google.com/file/d/1YVdpj85PtnJcnRYLAl5jiM5DwSYSoitB/view?usp=drive_link)
 
 **Siemens EDA** — *Embedded Systems Trainee*  
 📅 Jul 2023 – Oct 2023  
