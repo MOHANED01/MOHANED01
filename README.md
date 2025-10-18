@@ -128,8 +128,7 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 **Siemens EDA** — *Embedded Systems Trainee*  
 📅 Jul 2023 – Oct 2023  
 - Ranked **Top 5** in certification exam (92%).  
-- Topics: RTOS, AUTOSAR Layers, Safety (ISO26262), Cybersecurity.
-- 
+- Topics: RTOS, Classical AUTOSAR Layers, Adaptive AUTOSAR Layers, Safety (ISO26262), Automotive Cybersecurity.
 **ITI Advanced Embedded Systems**  
 📅 Aug 2023 - Sept 2023 
 - Developed firmware for ARM Cortex M4, Introduction to IOT, WIFI module, Flashing and Bootloader.
