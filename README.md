@@ -57,6 +57,8 @@ Developed an *Advanced Driver Assistance System (ADAS)* using **Raspberry Pi**, 
 - Established and benchmarked wireless protocols (ESP-NOW vs LPWAN).
 
  [Project Demo Video](https://drive.google.com/file/d/1zAKWprjDdx2nJF2yjdBToggnPmDbB8Ej/view?usp=sharing)
+ [Presentation Slides](https://docs.google.com/presentation/d/1XvJUHP-AmVEPBQUvIFY9rL_-R75B5BK8/edit?slide=id.p11#slide=id.p11)
+ [Repo](https://github.com/MOHANED01/ADAS-with-V2V-Wireless-Communication-Graduation-Project-)
 </details>
 
 <details>
