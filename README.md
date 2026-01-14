@@ -45,9 +45,14 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 <summary> System Programming in Linux projects course </summary>
 
 **Description:**  
-Developed  *UNIX simple shells* using **C wrapper function**
-
+Developed *Custom Unix Shell Implementations (Femto / Pico / Nano / Micro Shell)*
 -  [Repo](https://github.com/MOHANED01/spl01_code_exercises)
+  **Femto Shell**
+A minimal interactive shell that supports:
+- Command input handling
+- Built-in commands (echo, exit)
+- Empty input handling (pressing Enter)
+- Correct output formatting and prompt control
 </details>
 
 
