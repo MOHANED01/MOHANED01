@@ -42,7 +42,7 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 
 
 <details>
-<summary> System Programming in Linux </summary>
+<summary> System Programming in Linux projects course </summary>
 
 **Description:**  
 Developed  *UNIX simple shells* using **C wrapper function**
