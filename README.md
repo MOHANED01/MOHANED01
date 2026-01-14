@@ -40,6 +40,18 @@ I specialize in **STM32**, **FreeRTOS**, **AUTOSAR** development, and **Linux pr
 
 ## 📌 Highlight Projects
 
+
+<details>
+<summary> System Programming in Linux </summary>
+
+**Description:**  
+Developed  *UNIX simple shells* using **C wrapper function**
+
+-  [Repo](https://github.com/MOHANED01/spl01_code_exercises)
+</details>
+
+
+
 <details>
 <summary> ADAS with V2V Wireless Communication</summary>
 
